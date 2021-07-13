@@ -13,7 +13,7 @@ st.markdown("""
 
 st.markdown("""
 <p class="big-font">Measure Causal Impact</p>
-<p>Predict the click outcome as if an SEO change/event never took place. Helpful to understand impact in lou of an experiment</p>
+<p>Predict the click outcome as if an SEO change/event never took place. Helpful to understand impact in absense of an experiment.</p>
 <b>Directions: </b></ br><ol>
 <li>Read the tutorial on <a href="https://importsem.com/measure-causal-impact-from-gsc-data-using-python">importSEM</a></li>
 <li>Upload GSC date data sheet export</li>
